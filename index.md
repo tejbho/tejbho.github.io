@@ -10,6 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me
 
-This is a normal paragraph following a header.
+I like coding, engineering, and developing games on Unity.
+
